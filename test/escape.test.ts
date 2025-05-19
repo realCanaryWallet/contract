@@ -1,6 +1,6 @@
 import { ethers } from "hardhat";
 import { expect } from "chai";
-import { CanarySignal, EscapeWallet } from "typechain-types";
+import { CanarySignal, EscapeWallet } from "../typechain-types";
 import { time } from "@nomicfoundation/hardhat-network-helpers";
 
 describe("Canary Wallet", function () {
