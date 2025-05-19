@@ -28,7 +28,7 @@ jobs:
           node-version: 18
 
       - name: 📦 Install dependencies
-        run: npm install
+        run: yarn install
 
       - name: 🔨 Compile contracts
         run: npx hardhat compile
