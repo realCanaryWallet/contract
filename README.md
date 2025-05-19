@@ -1,4 +1,7 @@
-# Canary Wallet Contracts
+# Canary Wallet Contracts 
+
+[![Deployment](https://github.com/realCanaryWallet/contract/actions/workflows/deploy-sepolia.yml/badge.svg)](https://github.com/realCanaryWallet/contract/actions/workflows/deploy-sepolia.yml)
+[![Unit Test](https://github.com/realCanaryWallet/contract/actions/workflows/unit-test.yaml/badge.svg)](https://github.com/realCanaryWallet/contract/actions/workflows/unit-test.yaml)
 
 This repository contains the smart contracts powering the **Canary Wallet**, a security-first Ethereum wallet designed to protect users and organizations from unnoticed private key compromise or long-term inactivity.
 
