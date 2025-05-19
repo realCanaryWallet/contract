@@ -9,6 +9,7 @@ jobs:
   test:
     name: 🧪 Compile & Test
     runs-on: ubuntu-latest
+    environment: sepolia
 
     env:
       SEPOLIA_RPC_URL: ${{ secrets.SEPOLIA_RPC_URL }}
